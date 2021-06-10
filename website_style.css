@@ -37,7 +37,9 @@
     padding-bottom: 150px;
     text-align: center;
 }
-
+ul a{
+color: black;
+}
 .t{
     text-align: center;
     margin-left: 10px;
